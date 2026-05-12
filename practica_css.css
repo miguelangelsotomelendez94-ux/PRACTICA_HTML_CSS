@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+
+h1 { 
+    color:#12e728;
+    font-size:80px ;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p { 
+    color:  #11ef71;
+    font-size:20px ;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
