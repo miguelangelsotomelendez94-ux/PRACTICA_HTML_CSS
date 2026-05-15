@@ -1,0 +1,33 @@
+/* selector de elementos etiquetas*/
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    }
+/* selector para elementos con clase*/
+    .veiculo-de-agua {
+        color: blue;
+    }
+    .veiculo-de-tierra{ 
+        color: green;
+    }
+    .veiculo-de-aire{
+        color: aqua;
+    }
+    /*selector para elementos con ID */
+    #veiculo-especial { 
+        color: blueviolet;
+    }
+
+    ul{ 
+        list-style-type: square;
+        border: 5px solid black;
+        width: 400px;
+        height: 500px;
+    }
+    h1{
+        border: black solid 3px;
+        padding: 40px;
+        margin: 30px 0 30px 0;
+        background-color: blue;
+    }
